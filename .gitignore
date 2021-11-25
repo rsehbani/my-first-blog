@@ -2,7 +2,7 @@
 
 blog/__pycache__
 mysite/__pycache__
-myenv/**
+myenv/lib/**
 
 
 
