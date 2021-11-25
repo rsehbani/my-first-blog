@@ -2,11 +2,8 @@
 
 blog/__pycache__
 mysite/__pycache__
-myenv/lib
-myenv/bin
-myenv/include
+
 myenv/lib64
-myenv/share
 
 
 
