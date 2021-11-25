@@ -2,10 +2,7 @@
 
 blog/__pycache__
 mysite/__pycache__
-
-# Env
-
-**/myenv
+myenv/**
 
 
 
