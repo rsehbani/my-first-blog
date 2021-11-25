@@ -5,7 +5,7 @@ mysite/__pycache__
 
 # Env
 
-djangogirls/myenv/**
+/myenv/*
 
 
 
